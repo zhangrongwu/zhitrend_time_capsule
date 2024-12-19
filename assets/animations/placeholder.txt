@@ -1,0 +1,8 @@
+这是一个占位文件，提醒开发者需要添加动画资源。
+
+动画资源要求：
+1. login_bear.riv: 登录页面的熊动画
+2. register_character.riv: 注册页面的角色动画
+3. time_capsule_splash.json: 启动页的时间胶囊动画
+
+建议使用 Rive 或 Lottie 格式的动画。
